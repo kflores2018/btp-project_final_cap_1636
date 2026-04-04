@@ -5,3 +5,4 @@ service SalesService {
     entity SalesOrders as projection on my.Header;
     entity OrderItems as projection on my.Items;
 }
+

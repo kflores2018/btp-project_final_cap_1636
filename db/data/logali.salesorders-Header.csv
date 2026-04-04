@@ -1,0 +1,9 @@
+ID;Email;FirstName;LastName;Country;CreatedOn;DeliveryDate;OrderStatus;ImageURL
+ORD-013;elena.vargas@logali.com;Elena;Vargas;Colombia;2024-04-01;2024-04-10T09:00:00Z;2;https://flagcdn.com/w320/co.png
+ORD-014;marco.polo@logali.com;Marco;Polo;Portugal;2024-04-05;2024-04-12T14:30:00Z;1;https://flagcdn.com/w320/pt.png
+ORD-015;sara.lee@logali.com;Sara;Lee;Canada;2024-04-10;2024-04-18T11:00:00Z;3;https://flagcdn.com/w320/ca.png
+ORD-016;ahmed.hassan@logali.com;Ahmed;Hassan;Egypt;2024-04-15;2024-04-22T16:00:00Z;2;https://flagcdn.com/w320/eg.png
+ORD-017;lina.chen@logali.com;Lina;Chen;China;2024-04-20;2024-04-28T10:00:00Z;1;https://flagcdn.com/w320/cn.png
+ORD-018;victor.hugo@logali.com;Victor;Hugo;Belgium;2024-05-01;2024-05-08T13:45:00Z;3;https://flagcdn.com/w320/be.png
+ORD-019;olivia.smith@logali.com;Olivia;Smith;Australia;2024-05-05;2024-05-15T09:30:00Z;2;https://flagcdn.com/w320/au.png
+ORD-020;diego.ruiz@logali.com;Diego;Ruiz;Peru;2024-05-10;2024-05-18T15:00:00Z;1;https://flagcdn.com/w320/pe.png
